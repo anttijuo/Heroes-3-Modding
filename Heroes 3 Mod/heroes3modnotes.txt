@@ -1,0 +1,252 @@
+Heroes 3 mod by UndeadHalfOrc 
+comments... anostf@hotmail.com 
+
+
+CASTLE CREATURES AND BUILDINGS 
+Increased gold cost of Pikeman from 60 to 65 
+Increased health of Archer/Marksman from 10 to 11 
+Increased defense skill of Archer/Marskman from 3 to 4 
+Increased wood cost of Upgraded Griffin Tower from 0 to 5 
+Increased damage of Swordsman from 6-9 to 6-10 
+Decreased damage of Crusader from 7-10 to 6-10 
+Increased health of Monks/Zealot from 30 to 32 
+Decreased wood cost of Training Grounds from 20 to 15 
+Decreased damage of Cavalier from 15-25 to 15-24 
+Decreased damage of Champion from 20-25 to 20-24 
+Decreased gem cost of Archangel from 3 to 2 
+
+
+RAMPART CREATURES AND BUILDINGS 
+Decreased gold cost of Centaur Captain from 90 to 85 
+Decreased gold cost of Wood Elf from 200 to 185 
+Increased gold cost of Pegasus from 250 to 260 
+Increased gold cost of Silver Pegasus from 275 to 285 
+Increased gold cost of Dendroid Guard from 350 to 370 
+Increased gold cost of Dendroid Soldier from 425 to 435 
+Increased gem cost of Upgraded Unicorn Glades from 5 to 6 
+Increased health of Unicorn from 90 to 95 
+Increased defense skill of War Unicorn from 14 to 15 
+Increased gold cost of Dragon Cliffs from 10000 to 15000 
+Decreased gold cost of Upgraded Dragon Cliffs from 20000 to 15000 
+
+TOWER CREATURES AND BUILDINGS 
+Increased basic growth of Gremlin/Master Gremlin from 16 to 18 (total 36) 
+Increased basic growth of Stone Golem/Iron Golem from 6 to 7 
+Decreased rare ressource cost of Mage Tower from 5 to 4 
+Decreased gold cost of Arch Mage from 450 to 420 
+Decreased crystal cost of Altar of Wishes from 6 to 5 
+Decreased gold cost of Genie from 550 to 525 
+Increased defense skill of Master Genie from 12 to 13 
+Increased gold cost of Golden Pavillion from 4000 to 4500 
+Decreased gold cost of Naga Queen from 1600 to 1550 
+Increased gold cost of Cloud Temple from 5000 to 8000 
+Decreased gold cost of Upgraded Cloud Temple from 25000 to 22000 
+Increased defense skill of Giant from 16 to 17 
+Increased health of Giant from 150 to 155 
+Decreased attack skill of Titan from 24 to 23 
+
+INFERNO CREATURES AND BUILDINGS 
+Increased basic growth of Imp/Familiar from 15 to 19 (total 38+8=46) 
+Decreased gold cost of Imp from 50 to 30 
+Decreased gold cost of Familiar from 60 to 40 
+Increased basic growth of Gog/Magog from 8 to 9 
+Decreased gold cost of Magog from 175 to 165 
+Increased wood cost of Upgraded Kennels from 0 to 5 
+Increased basic growth of Hell Hound/Cerberus from 5 to 6 
+Changed damage of Hell Hound/Cerberus from 2-7 to 3-6 
+Decreased defense skill of Cerberus from 8 to 7 
+Increased gold cost of Demon from 250 to 255 
+Increased gold cost of Horned Demon from 270 to 285 
+Increased attack/defense skill of Horned Demon from 10/10 to 11/11 
+Decreased sulfur cost of Upgraded Hell Hole from 5 to 4 
+Increased health of Pit Lord from 45 to 50 
+Decreased cost of Pit Lord from 700 to 670 
+Increased gem cost of Upgraded Fire Lake from 5 to 6 
+Increased damage of Devil/Archdevil from 30-40 to 32-42 
+Increased health of Archdevil from 200 to 210 
+
+NECROPOLIS CREATURES AND BUILDINGS 
+Increased basic growth of Skeleton/Skeleton Warrior from 12 to 13 (total 26+6=32) 
+Increased basic growth of Walking Dead/Zombie from 8 to 9 
+Increased defense skill of Walking Dead/Zombie from 5 to 6 
+Decreased gold cost of Wight from 200 to 180 
+Increased speed of Wight from 5 to 6 
+Increased attack/defense skill of Wight from 7/7 to 8/8 
+Decreased gold cost of Wraith from 230 to 210 
+Increased speed of Wraith from 7 to 8 
+Increased attack/defense skill of Wraith from 7/7 to 9/9 
+Decreased attack skill of Vampire/Vampire Lord from 10 to 9 
+Decreased damage of Power Lich from 11-15 to 11-14 
+Increased gold cost of Mausoleum from 2000 to 2500 
+Decreased attack/defense skill of Dread Knight from 18/18 to 17/17 
+Decreased damage of Black Knight/Dread Knight from 15-30 to 15-29 
+Increased attack/defense skill of Bone Dragon from 17/15 to 18/16 
+Increased attack/defense skill of Ghost Dragon from 19/17 to 20/18 
+Increased health of Ghost Dragon from 200 to 210 
+Increased gold cost of Necromancy Amplifier from 1000 to 2000 
+
+DUNGEON CREATURES AND BUILDINGS 
+Increased basic growth of Troglodyte/Infernal Troglodyte from 14 to 15 (total 30+7=37) 
+Increased basic growth of Harpy/Harpy Hag from 8 to 9 
+Decreased gold cost of Beholder from 250 to 240 
+Decreased gold cost of Evil Eye from 280 to 270 
+Decreased ore cost of Chapel of Stilled Voices from 10 to 5 
+Increased gold cost of Medusa from 300 to 310 
+Increased gold cost of Medusa Queen from 330 to 350 
+Increased gold cost of Minotaur from 500 to 550 
+Increased gold cost of Minotaur King from 575 to 625 
+Decreased defense skill of Minotaur King from 15 to 14 
+Decreased gold cost of Manticore Lair from 5000 to 4500 
+
+STRONGHOLD CREATURES AND BUILDINGS 
+Increased basic growth of Goblin/Hobgoblin from 15 to 17 (total 34+8=42) 
+Increased damage of Wolf Rider from 2-4 to 3-4 
+Decreased attack skill of Wolf Raider from 8 to 7 
+Increased health of Wolf Rider/Wolf Raider from 10 to 12 
+Increased gold cost of Wolf Rider from 100 to 105 
+Increased gold cost of Wolf Raider from 140 to 145 
+Increased defense skill of Orc/Orc Chieftain from 4 to 5 
+Decreased wood cost of Ogre Fort from 20 to 15 
+Decreased health of Ogre Mage from 60 to 58 
+Increased gem cost of Upgraded Cliff Nest from 0 to 5 
+Decreased gold cost of Roc from 600 to 550 
+Decreased gold cost of Thunderbird from 700 to 670 
+Decreased crystal cost of Cyclops Cave from 20 to 10 
+Decreased ore cost of Cyclops Cave from 20 to 15 
+Increased gold cost of Cyclops from 750 to 775 
+Decreased gold cost of Cyclops King from 1100 to 1025 
+Increased ore cost of Behemoth Crag from 10 to 15 
+Increased gold cost of Behemoth from 1500 to 1600 
+Increased speed of Behemoth from 6 to 7 
+
+FORTRESS CREATURES AND BUILDINGS 
+Increased basic growth of Gnoll/Gnoll Marauder from 12 to 14 (total 28+6=34) 
+Increased gold cost of Gnoll from 50 to 55 
+Decreased wood cost of Upgraded Gnoll Hut from 10 to 5 
+Decreased defense skill of Lizard Warrior from 8 to 7 
+Decreased gold cost of Dragon Fly from 240 to 230 
+Decreased gold cost of Serpent Fly from 220 to 210 
+Decreased wood cost of Upgraded Gorgon Lair from 5 to 0 
+Increased ore cost of Upgraded Gorgon Lair from 0 to 5 
+Increased gold cost of Mighty Gorgon from 600 to 650 
+Increased damage of Wyvern from 14-18 to 15-19 
+Increased health of Wyvern Monarch from 70 to 75 
+Decreased gold cost of Wyvern Monarch from 1100 to 1000 
+Increased attack/defense skill of Wyvern Monarch from 14/14 to 15/15 
+Increased attack/defense skill of Chaos Hydra from 18/20 to 19/21 
+Increased health of Chaos Hydra from 250 to 260 
+Adventure map stack sizes of serpent flies, basilisks, and gorgons corrected to standard amount for their levels 
+
+CONFLUX CREATURES AND BUILDINGS 
+Decreased basic growth of Pixie/Sprite from 20 to 19 
+Increased gold cost of Sprite from 30 to 35 
+Adventure map stack sizes of Air and Storm elementals increased from 8-12 and 8-12 to 10-16 and 9-14 
+Adventure map stack sizes of Earth and Magma elementals decreased from 16-30 and 16-25 to 14-26 and 14-20 
+Adventure map stack sizes of Psychic and Magic Elementals corrected to standard for level 6 (5-12, 5-10) 
+Increased gold cost of Firebird from 1500 to 1900 
+Increased health of Firebird from 150 to 165 
+Increased gold cost of Phoenix from 2000 to 3000 
+Increased health of Phoenix from 200 to 230 
+Decreased basic growth of Firebird/Phoenix from 2 to 1 
+Increased cost of Magic University from 10 Wood, 10 Ore, 5000 gold to 10000 gold, 15 Wood, 15 Ore, and 5 of each rare resource. 
+
+NEUTRAL CREATURES AND BUILDINGS 
+Increased First Aid Tent hit points from 75 to 100 
+Changed Naga Bank reward from Sulfur to Gems 
+Increased adventure map stack size of Peasant from 20-50 to 40-70 
+
+
+ARTIFACTS 
+Changed text of badge of courage to display immunity to mind spells 
+Changed type of badge of courage from Treasure to Major 
+Increased gold value of badge of courage from 1000 to 8000 
+Changed type of Necklace of Swiftness from Treasure to Minor 
+Changed type of Ring of Vitality from Treasure to Minor 
+Changed type of Necklace of Ocean Guidance from Major to Minor 
+Decreased gold value of Necklace of Ocean Guidance from 10000 to 3000 
+Changed type of Garniture of Interference from Major to Minor 
+Changed type of Sandal of the Saints from Minor to Major 
+
+SPELLS COST & EFFECTS 
+Changed most spells' mana costs. 
+Mass versions of Bless, Curse, Bloodlust, Weakness, Shield, 
+Stone Skin, Haste, Slow, Prayer and Counterstrike now cost more. 
+Removed Disguise (probability 0) from all Towns' Mage Guilds (except Conflux) 
+Removed Misfortune (probability 0) from all Towns' Mage Guilds (except Conflux) 
+Reduced effectiveness of Shield from 15% / 30% to 13% / 25% 
+Raised power of Land Mine from 10 to 15. 
+Lowered Implosion advanced bonus from 200 to 150, expert from 300 to 200 
+Raised power of Frost Ring from 10 to 13 
+Raised power of Fireball from 10 to 13 
+Raised power of Inferno from 10 to 15. 
+Raised power of Death Ripple from 5 to 8. 
+Raised power of Destroy Undead from 10 to 13. 
+Lowered Resurrect advanced bonus from 80 to 60, expert 160 to 80 
+Lowered power of Resurrect from 50 to 45. 
+Lowered Animate Dead expert bonus 160 to 80. 
+Lowered power of Animate Dead from 50 to 40. 
+Raised power of Hypnotize from 25 to 50 
+Raised Hypnotize Advanced bonus from 20 to 50, expert from 50 to 90 
+Raised power of Firewall from 10 to 15. 
+Town Portal is now a Earth & Fire spell, instead of just Earth 
+Raised chance of success of Magic Mirror by 20% for all expertise levels. 
+
+HEROES 
+Druids now start with 0/1/2/2 instead of 0/2/1/2 
+Demoniacs now start with 3/1/1/1 instead of 2/2/1/1 
+Heretics now start with 1/0/2/2 instead of 1/1/2/1 
+Changed Castle heroes starting Pikeman amount from 10-20 to 13-17 
+Increased Castle heroes starting Griffin amount from 2-3 to 3-4 
+Changed Rampart heroes starting Centaur amount from 12-24 to 14-18 
+Increased Rampart heroes starting Dwarf amount from 3-5 to 4-6 
+Decreased Rampart heroes starting Wood Elf amount from 3-6 to 3-5 
+Decreased Tower heroes starting Gremlin amount from 30-40 to 25-30 
+Increased Tower heroes starting Stone Gargoyle amount from 3-5 to 4-7 
+Increased Tower heroes starting Stone Golem amount from 2-3 to 2-4 
+Increased Inferno heroes starting Imp amount from 15-25 to 22-26 
+Decreased Necropolis heroes starting Skeleton amount from 20-30 to 20-25 
+Increased Necropolis heroes starting walking dead amount from 4-6 to 5-7 
+Decreased Dungeon heroes starting Troglodyte amount from 30-40 to 20-25 
+Increased Dungeon heroes starting Harpy amount from 4-6 to 4-7 
+Increased Stronghold heroes starting Goblin amount from 15-25 to 20-25 
+Increased Fortress heroes starting Gnoll amount from 10-20 to 16-22 
+Increased Fortress heroes starting Serpentfly amount from 2-4 to 3-4 
+Reduced Ignatus's stacks 2 & 3 by 5 Imps comparatively to the normal starting amount. 
+Reduced Galthran's stacks 2 & 3 by 5 Skeleton comparatively to the normal starting amount. 
+Reduced Shakti's stacks 2 & 3 by 5 Troglodytes comparatively to the normal starting amount. 
+Reduced Gretchin's stacks 2 & 3 by 5 Goblins comparatively to the normal starting amount. 
+Reduced Drakon's stacks 2 & 3 by 4 Gnolls comparatively to the normal starting amount. 
+All Level 2 creature specialists had their first stack increased by 1. 
+Decreased Bron's starting Basilisk amount from 4-7 to 2-3 
+Decreased Xeron's stack 2 (Hell Hounds) from 4-7 to 3-4 
+Darktstorn corrected to Darkstorm 
+
+SECONDARY SKILLS 
+Mysticism: 
+From 1 2 3 4 to 1 3 4 6 (+2 +3 +5) 
+Scouting: 
+From 5 6 7 8 to 5 7 8 10 (+2 +3 +5) 
+Archery: 
+From 10% 25% 50% to 15% 30% 50% 
+Offense: 
+From 10% 20% 30% to 8.33% 16.67% 25% 
+Estates: 
+From 125 250 500 to 200 350 600 
+Eagle Eye: 
+From 40% 50% 60% to 85% 85% 85% 
+Resistance: 
+From 5% 10% 20% to 7% 14% 20% 
+Learning: 
+From 5% 10% 15% to 15% 30% 45% 
+Logistics: 
+From 10% 20% 30% to 7% 14% 20% 
+Sorcery: 
+From 5% 10% 15% to 7% 14% 20% 
+Intelligence: 
+From 25% 50% 100% to 20% 40% 60% 
+
+PROBABILITIES 
+Changed a few primary skill probabilities, ignoring Conflux heroes 
+Changed a LOT of secondary skills probabilities, ignoring Conflux heroes 
+Re-organized spell appearance in towns, ignoring Conflux. 
+Conflux heroes (and only them) will only be available to Conflux players
